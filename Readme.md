@@ -1,8 +1,18 @@
 ## Introduction
 
-This is CASC, source code of Cross-Modal Attention with Semantic Consistence for Image-Text Matching submitted to the TNNLS.
+This is the source code of "Cross-Modal Attention with Semantic Consistence for Image-Text Matching", implemented by [Tan Wang](https://github.com/Wangt-CN). 
 
+If you are interested in this work, please kindly refer to:
 
+@ARTICLE{casc_tnnls2020,
+  author={X. {Xu} and T. {Wang} and Y. {Yang} and L. {Zuo} and F. {Shen} and H. T. {Shen}},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Cross-Modal Attention With Semantic Consistence for Image-Text Matching}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-14},
+}
 
 
 ## Cross-Modal Attention with Semantic Consistence for Image-Text Matching
